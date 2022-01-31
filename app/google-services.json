@@ -1,0 +1,106 @@
+{
+  "project_info": {
+    "project_number": "287148753544",
+    "firebase_url": "https://nirmala-school-28fab.firebaseio.com",
+    "project_id": "nirmala-school-28fab",
+    "storage_bucket": "nirmala-school-28fab.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:287148753544:android:277ec4f9f71d91f9b3153d",
+        "android_client_info": {
+          "package_name": "com.example.myrestaurentadmin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "287148753544-e0gq19urtov3ln560l3pht8dfufurpo2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDSIw7S4HP6aHW0WiNWiguNRvejrwlCphw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "287148753544-e0gq19urtov3ln560l3pht8dfufurpo2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:287148753544:android:75e3b4efdf5afa22b3153d",
+        "android_client_info": {
+          "package_name": "com.manvitha.mirchi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "287148753544-e0gq19urtov3ln560l3pht8dfufurpo2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDSIw7S4HP6aHW0WiNWiguNRvejrwlCphw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "287148753544-e0gq19urtov3ln560l3pht8dfufurpo2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:287148753544:android:165ecbab67e4992cb3153d",
+        "android_client_info": {
+          "package_name": "data.manvitha.mirchi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "287148753544-lq4klroo2tqen69mu4j2signjiace38b.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "data.manvitha.mirchi",
+            "certificate_hash": "75f7b06fd02e583e748519e515edc734fd23c546"
+          }
+        },
+        {
+          "client_id": "287148753544-e0gq19urtov3ln560l3pht8dfufurpo2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDSIw7S4HP6aHW0WiNWiguNRvejrwlCphw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "287148753544-e0gq19urtov3ln560l3pht8dfufurpo2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

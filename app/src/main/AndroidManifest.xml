@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.manvitha.mirchi">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".Frag3"></activity>
+        <activity android:name=".Frag2" />
+        <activity android:name="data.manvitha.mirchi.Frag1" />
+        <activity android:name=".ViewPagerActivity" />
+        <activity android:name="data.manvitha.mirchi.SpalshActivty">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name="data.manvitha.mirchi.LoginActivty" />
+        <activity android:name="data.manvitha.mirchi.RegisterActivity" />
+        <activity
+            android:name="data.manvitha.mirchi.MainActivity"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity android:name="data.manvitha.mirchi.SettinsActivity" />
+        <activity android:name="data.manvitha.mirchi.SearchProductsActivity" />
+        <activity android:name="data.manvitha.mirchi.ProductDetailsActivity" />
+        <activity android:name="data.manvitha.mirchi.ConfirmFinalOrderActivity" />
+        <activity android:name="data.manvitha.mirchi.CartActivity" />
+    </application>
+
+</manifest>

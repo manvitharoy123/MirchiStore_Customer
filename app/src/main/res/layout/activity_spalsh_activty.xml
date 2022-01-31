@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="wrap_content"
+    android:layout_height="match_parent"
+    android:background="@drawable/manu"
+    tools:context="data.manvitha.mirchi.SpalshActivty">
+
+    <Button
+        android:id="@+id/main_login_btn"
+        android:layout_width="150dp"
+        android:layout_height="50dp"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginLeft="112dp"
+        android:layout_marginEnd="131dp"
+        android:layout_marginRight="131dp"
+        android:layout_marginBottom="402dp"
+        android:background="@drawable/buttons"
+        android:text="Login"
+        android:textColor="#FFFFFFFF"
+        android:textSize="15dp"
+        app:backgroundTint="#41A9E8" />
+
+    <Button
+        android:id="@+id/main_join_now_btn"
+        android:layout_width="150dp"
+        android:layout_height="50dp"
+
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginLeft="123dp"
+        android:layout_marginEnd="120dp"
+        android:layout_marginRight="120dp"
+        android:layout_marginBottom="282dp"
+        android:background="@drawable/buttons"
+        android:text="Register.."
+        android:textColor="#FFFFFFFF"
+        android:textSize="15dp"
+        app:backgroundTint="#CD4A84" />
+</RelativeLayout>
