@@ -1,7 +1,6 @@
 <h2 align="center"><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">Hello guys, I am Manvitha Roy</h2>
 <p align="center">⚡ I have developed an app named as Mirchi</strong></p>
-<p align="center">🔰Mirchi is an online grocery,clothes app for small scale retail shops</p>
-
+<p align="center">🔰Mirchi is an online grocery,clothes customer side app for small scale retail shops</p>
 
 <p align="center">
   <img src="https://play-lh.googleusercontent.com/BJrsXRYwyPhWjOLaQ4uUPmDnDwA5rL-h4mAqInYzyOFLhkfjo-pP_g3ogeT1cMNh3ls=w2560-h1154-rw" width="200"title="hover text">
@@ -12,12 +11,15 @@
 
 ## 💻Features
 
-- 📍Learn data structures
-- 🗒️Algorithms are also added
-- 🌟Topics are divided accordingly
-- 💬Quiz option to test your skills in data structures and algorithms
-- 🤜clear information regarding each and every topic in data structures and algorithms
+- 📍This app also has an admin app where admin adds the product
+- 🗒️This app is specially designed for customer where customer can login,register into the online store.
+- 🌟He can access the products uploaded by the admin and can select the quantity of the products and then can add them into the cart.
+- 💬From the cart he could directly place an order by entering the details of phone number,address, city .
+- 🤜All this information would be received to the shop owner who can later send the goods.
 
+## 💻Admin App
+
+- https://github.com/manvitharoy123/Mirchi_Admin
 
 ## 👉Prerequisites :
 - Android Studio
@@ -37,7 +39,7 @@ Hit Run Button !
 ------------
 
 🤔Full Project demonstration Youtube :<br>
-Link - https://www.youtube.com/watch?v=FctDdlFU-KI
+Link - https://youtu.be/Mnq5lI0KULM
 
 **Give me a star if you like it !! 😷😷**
 
